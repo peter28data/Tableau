@@ -1,5 +1,14 @@
+<h1 align="center">Peter Garay-Robles </h1>
+
+<h3 align="center">A Senior Analyst in SQL and Python.</h3>
+
 ---
+
 The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. 
+
+---
+
+![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
 ---
 
@@ -14,6 +23,22 @@ This dashboard includes 5 visualizations with filters for the top healthcare com
 1. Pharmaceuticals
 2. Medical Devices, Diagnostics, Vaccines
 3. Consumer Health, Unlabeled Data
+
+---
+
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+---
+
+### 📊 Weekly Denials Management Dashboard
+
+This dashboard includes 4 visualizations with filters for location and insurance rollup for managing weekly healthcare denials claim on a weekly basis. 
+
+-- The lower left is a line chart of the total denial amount for the past month seperated by points in each week. There is a dash line to indicate the average denial amount for each week.
+
+-- The upper left chart is a heatmap that shows the proportion of denial claims based on categories.
 
 ---
 
