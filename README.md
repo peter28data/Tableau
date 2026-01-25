@@ -8,6 +8,32 @@ The files in this folder contain images for Tableau Dashboard visualization in t
 
 ---
 
+## 📊 Healthcare Company Revenue & Capital Overview
+
+### Executive Summary - Junior Analsyt Overview
+
+This dashboard compares revenue and market capitalization across major healthcare companies to understand how different business segments and geographies contribute to overall value. It allows leadership to identify which companies and segments generate the highest reveneue and market cap. This dashboard provides insights for our stakeholders on geographic distribution and the differences in performance across business segments. 
+
+What Makes This Junior Analysis
+
+- Focused on what is shown
+- Limited business implication
+- Descriptive
+
+### Executive Summary - Senior Analyst Overview
+
+This dashboard evaluates how effectively healthcare organizations convert capital into revenue across therapeutic areas, business segments, and geographies. The focus is on capital efficiency, concentration risk, and scalable growth opportunities. The insights are designed to inform portfolio strategy, capital allocation, and market expansion decisions, assisting leadership to shift investment toward segments and geographies with the strongest revenue yield. 
+
+What Makes This Senior Analysis
+
+- Focused on decision-making
+- Connects analytics to strategy
+- Outcome-driven
+
+---
+
+
+
 ![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
 ---
@@ -48,5 +74,9 @@ For Project in SQL, click below:
 🔗 SQL Portfolio Link: https://github.com/peter28data/SQL
 
 🔗 Python Portfolio Link: https://github.com/peter28data/Python
+
+🔗 Current Portfolio Link: https://github.com/peter28data/github
+
+
 
 ---
