@@ -46,9 +46,8 @@ Without a structured denial analytics framework:
 
 2. Dashboard Development (Tableau)
 
-- Built KPI tiles for: Total denied amount, distinct, claims, average denial age
-- Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time
-- Enabled drop-downs to filter claim-level detail
+- Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
+- Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
 
 ### Results & Business Recommendations
 
@@ -99,7 +98,18 @@ What Makes This Senior Analysis:
 
 ### Senior Analyst Perspective
 
-Capital concentration is not evenly distributed. Specific therapeutic areas generate disporportionate market value relative to revenue, signaling higher growth expectations and pricing power. Geographic clustering suggests operational and R&D efficiences that can be replicated in adjacent markets. Underperforming segments represent opportunities for 
+Capital concentration is not evenly distributed. Specific therapeutic areas generate disporportionate market value relative to revenue, signaling higher growth expectations and pricing power. Geographic clustering suggests operational and R&D efficiences that can be replicated in adjacent markets. Underperforming segments represent opportunities for capital rebalancing rather than cost reduction alone.
+
+Recommendations:
+
+1. Reallocate 2%-3% of annual investment from low-yield segments into high-efficiency therapeutic areas.
+2. Expand presence in cities demonstrating both capital density and revenue scalalbility.
+3. Establish ongoing capital-efficiency KPIs to guide quarterly investment decisions.
+
+Financial Impact (Estimated)
+
+- A 3% improvement in capital efficiency -> $300k incremental revenue on $10M
+- Replicating top-performing segment economics across regions
 
 ---
 
