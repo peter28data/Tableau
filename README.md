@@ -49,6 +49,8 @@ Without a structured denial analytics framework:
 - Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
 - Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
 
+---
+
 ### Results & Business Recommendations
 
 Results:
@@ -59,13 +61,14 @@ Business Recommendations:
 
 Prioritze resolution of top 3 denial categories, which drive the majority of revenue leakage. Focus staff efforts on high-dollar, high-aging claims for maximum recovery. Implement front-end process controls (eligibility and billing validation) to prevent repeat denials. 
 
-### Estimated Financial Impact
+## Estimated Financial Impact
 For a healthcare organization with $10M annual revenue:
 
 - Reducing denials by just 1.5% of revenue -> $150k recovered
 - Improving denial resolution speed by 10-15 days can increase cash flow by $250k-$400k annually
 
 Impact Connection:
+
 The dashboard directly ties denial analytics to cash flow recovery prioritization, and operational efficiency, making it a powerful tool for revenue cycle leadership. 
 
 ---
@@ -109,7 +112,12 @@ Recommendations:
 Financial Impact (Estimated)
 
 - A 3% improvement in capital efficiency -> $300k incremental revenue on $10M
-- Replicating top-performing segment economics across regions
+- Replicating top-performing segment economics across regions -> $500k-$700k annual uplift
+
+What Makes This Senior Analysis:
+
+- Specific Actions
+- Quantified Trade-Offs
 
 ---
 
@@ -122,6 +130,47 @@ Financial Impact (Estimated)
 
 ---
 
+### Executive Summary - Junior Analyst
+
+This dashboard tracks denied claims, denial amounts, and average aging of claims to help identify trends and common denial reasons. Users can see which denial categories account for the largest amounts and review claim-level details to support follow-up actions.
+
+The Tableau dashboard helps revenue cycle teams monitor weekly denial performance.
+
+### Results & Business Recommendations
+
+Results:
+
+Duplicate claims and eligibity issues account for the highest denied amounts. Older claims tend to have higher denied values. Some financial classes experience more denials than others.
+
+Recommendations:
+
+Focus on resolving high-dollar denials first. Review processes for common denial reasons. Monitor aging trends to prevent revenue loss.
+
+Financial Impact (Estimated):
+
+Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organization).
+
+---
+
+Executive Summary - Senior Analyst
+
+This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
+
+The focus is on cash acceleration and denial prevention. 
+
+### Results & Business Recommendations
+
+Results:
+
+Over 50% of denied dollars orginate from a small subset of preventable denial categories, indicating systemic front-end process gaps. High-dollar denials exceeding critical aging thresholds represent immediate write-off risk, not just delayed cash. Financial class-specific patterns suggest payer-driven documentation and authorization failures.
+
+Recommendations:
+
+1. Target the top 3 denial categories with the highest recovery ROI rather than addressing all denials equally.
+2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
+3. Align staffing models to pri
+
+Financial Impact (Estimated):
 
 
 ---
