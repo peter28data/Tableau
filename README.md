@@ -51,17 +51,8 @@ Without a structured denial analytics framework:
 
 ---
 
-### Results & Business Recommendations
 
-Results:
-
-High-dollar denials cluster at higher aging levels, increasing write-off risk. Certain financial classes exhibit systematic denial patterns, indicating process or documentation gaps. A small number of denial categories (e.g., duplicate claims, eligibility, billing errors)
-
-Business Recommendations:
-
-Prioritze resolution of top 3 denial categories, which drive the majority of revenue leakage. Focus staff efforts on high-dollar, high-aging claims for maximum recovery. Implement front-end process controls (eligibility and billing validation) to prevent repeat denials. 
-
-## Estimated Financial Impact
+### Estimated Financial Impact
 For a healthcare organization with $10M annual revenue:
 
 - Reducing denials by just 1.5% of revenue -> $150k recovered
@@ -77,15 +68,21 @@ The dashboard directly ties denial analytics to cash flow recovery prioritizatio
 
 Results:
 
-Certain companies have higher market cap compared to revenue, indicating differences in valuation. Oncology and immunology segments contribute significantly to total market cap. A small number of cities and countries account for a large portion of total market value.
+Oncology and immunology segments contribute significantly to total market cap. Certain financial classes exhibit systematic denial patterns, indicating process or documentation gaps. A small number of denial categories (e.g., duplicate claims, eligibility, billing errors)
 
 Business Recommendations:
 
-Further analyze high-performing segments. Monitor underperforming segments for improvement opportunities. Use geographic insights to guide future investments.
+Prioritze resolution of top 3 denial categories, which drive the majority of revenue leakage. Focus staff efforts on high-dollar, high-aging claims for maximum recovery. Implement front-end process controls (eligibility and billing validation) to prevent repeat denials. Monitor underperforming segments for improvement opportunities. 
 
 Financial Impact (Estimated):
 
 Improving performance in underperforming segments could increase revenue by 3%-5% for a company with $10M in revenue
+
+---
+
+## 📊 Healthcare Company Revenue & Capital Overview
+
+![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
 ---
 
@@ -121,9 +118,6 @@ What Makes This Senior Analysis:
 
 ---
 
-
----
-
 ### 📊 Revenue Cycle Analyst Dashboard
 
 ![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
@@ -152,6 +146,12 @@ Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organiza
 
 ---
 
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+---
+
 Executive Summary - Senior Analyst
 
 This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
@@ -172,6 +172,15 @@ Recommendations:
 
 Financial Impact (Estimated):
 
+Preventing just 1% of avoidable denials leads to $100k revenue preserved. Improving recovery speedd by 10-15 days improves cash flow by $250k-$400k. This is a combined impact of $400k-$600k annual benefit on a $10M revenue
+
+What Makes This a Senior Analysis:
+
+- Focus on preventable vs non-preventable
+- Labor efficiency and ROI framing
+- Cash flow, not just recovery
+
+As a senior analyst, framing analysis around decisions, trade-offs, and financial impact offer a more well rounded report on curret trends.
 
 ---
 
