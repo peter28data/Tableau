@@ -40,6 +40,10 @@ Without a structured denial analytics framework:
 
 ---
 
+![2020 market cap & revenue](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20%26%20Revenue.png)
+
+---
+
 ### Methodology
 1. Data Extraction & Cleansing (SQL)
 
@@ -55,7 +59,6 @@ Revenue shows what a healtcare company earns today, while market capitalization 
 
 ---
 
-
 ### Estimated Financial Impact
 For a healthcare organization with $10M annual revenue:
 
@@ -65,6 +68,10 @@ For a healthcare organization with $10M annual revenue:
 Impact Connection:
 
 The dashboard directly ties denial analytics to cash flow recovery prioritization, and operational efficiency, making it a powerful tool for revenue cycle leadership. 
+
+---
+
+![2020 revenue cat & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Revenue%20Category%20%26%20Sub-Cats.png)
 
 ---
 
@@ -81,6 +88,10 @@ Prioritze resolution of top 3 denial categories, which drive the majority of rev
 Financial Impact (Estimated):
 
 Improving performance in underperforming segments could increase revenue by 3%-5% for a company with $10M in revenue
+
+---
+
+![2020 market cap cats & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20Cats.png)
 
 ---
 
