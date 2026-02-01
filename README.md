@@ -38,6 +38,8 @@ Without a structured denial analytics framework:
 - High-doller denials remain unresolved
 - Staff efforts are misallocated
 
+---
+
 ### Methodology
 1. Data Extraction & Cleansing (SQL)
 
@@ -48,6 +50,8 @@ Without a structured denial analytics framework:
 
 - Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
 - Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
+
+Revenue shows what a healtcare company earns today, while market capitalization reflects how the market values its future potential at share price by distributed shares reflects how the market values its future potential. This parameter-driven calculation lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth.
 
 ---
 
