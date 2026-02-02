@@ -44,18 +44,15 @@ Without a structured denial analytics framework:
 
 ---
 
-### Methodology
-1. Data Extraction & Cleansing (SQL)
+The top 20 Heallthcare companies by market capitlization in 2020 reflect how the public market values its future potential at share price by distributed shares. The revenue shows what a healtcare company performs for that the year 2020. This parameter-driven calculation lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth.
 
-- Pulled claims, denial reasons, financial class, aging, and payment data from transactional databases
-- Standardized denial codes and rollups
+---
 
-2. Dashboard Development (Tableau)
+![2020 revenue cat & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Revenue%20Category%20%26%20Sub-Cats.png)
 
-- Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
-- Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
+---
 
-Revenue shows what a healtcare company earns today, while market capitalization reflects how the market values its future potential at share price by distributed shares reflects how the market values its future potential. This parameter-driven calculation lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth.
+This breakdown of where the revenue is coming fromr
 
 ---
 
@@ -71,9 +68,24 @@ The dashboard directly ties denial analytics to cash flow recovery prioritizatio
 
 ---
 
-![2020 revenue cat & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Revenue%20Category%20%26%20Sub-Cats.png)
+
+![2020 market cap cats & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20Cats.png)
 
 ---
+
+### Methodology
+1. Data Extraction & Cleansing (SQL)
+
+- Pulled claims, denial reasons, financial class, aging, and payment data from transactional databases
+- Standardized denial codes and rollups
+
+2. Dashboard Development (Tableau)
+
+- Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
+- Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
+
+---
+
 
 ### Results & Business Recommendations - Junior Analyst Perspective
 
@@ -88,10 +100,6 @@ Prioritze resolution of top 3 denial categories, which drive the majority of rev
 Financial Impact (Estimated):
 
 Improving performance in underperforming segments could increase revenue by 3%-5% for a company with $10M in revenue
-
----
-
-![2020 market cap cats & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20Cats.png)
 
 ---
 
@@ -130,6 +138,14 @@ What Makes This Senior Analysis:
 
 - Specific Actions
 - Quantified Trade-Offs
+
+---
+
+![2020 immunology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/immunology.png)
+
+---
+
+![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
 
 ---
 
