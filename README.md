@@ -44,7 +44,25 @@ Without a structured denial analytics framework:
 
 ---
 
-The top 20 Heallthcare companies by market capitlization in 2020 reflect how the public market values its future potential at share price by distributed shares. The revenue shows what a healtcare company performs for that the year 2020. This parameter-driven calculation lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth.
+First, we identify:
+
+The Top 20 Healthcare companies by market capitlization in 2020 reflect how the public market values its future potential at share price by distributed shares. The revenue shows how the healthcare company performed for the year 2020. 
+
+This lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth to identify companies that are undervalued and overvalued.
+
+Eli Lilly:
+
+In 2020, the top 3 healthcare companies by market cap align with the top 3 companies by revenue. 
+
+However, Eli Lilly, the fourth highest market cap, had less than a 5% difference in market cap but its earnings of 24.5B are 42% lower than 41.9B from the third leading competitor.
+
+To compare Eli Lilly to the industry average for the top 20 companies by revenue is 35.5B. 
+
+---
+
+Insight:
+
+Eli Lilly is the fourth highest healthcare company by market but is earning less than the average revenue of the top 20 healthcare companies, signaling underperformance relative to the benchmark.
 
 ---
 
