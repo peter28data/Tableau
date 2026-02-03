@@ -17,7 +17,7 @@ The files in this folder contain images for Tableau Dashboard visualization in t
 
 ### Executive Summary - Junior Analyst Overview
 
-This dashboard compares revenue and market capitalization across major healthcare companies to understand how different business segments and geographies contribute to overall value. It allows leadership to identify which companies and segments generate the highest reveneue and market cap. This dashboard provides insights for our stakeholders on geographic distribution and the differences in performance across business segments. 
+This dashboard compares revenue and market capitalization across major healthcare companies to understand how different business segments and geographies contribute to overall value. It allows leadership to identify which companies and segments generate the highest reveneue and market cap. This dashboard provides insights for our stakeholders on the differences in performance across the industry in 2020. 
 
 What Makes This Junior Analysis:
 
@@ -54,15 +54,15 @@ Eli Lilly:
 
 In 2020, the top 3 healthcare companies by market cap align with the top 3 companies by revenue. 
 
-However, Eli Lilly, the fourth highest market cap, had less than a 5% difference in market cap but its earnings of 24.5B are 42% lower than 41.9B from the third leading competitor.
+However, Eli Lilly, the fourth largest market cap, had less than a 5% difference in market cap but its earnings of 24.5B are 42% lower than the third leading competitor at 41.9B.
 
-To compare Eli Lilly to the industry average for the top 20 companies by revenue is 35.5B. 
+To compare, the industry average for the top 20 companies by revenue is 35.5B. 
 
 ---
 
 Insight:
 
-Eli Lilly is the fourth highest healthcare company by market but is earning less than the average revenue of the top 20 healthcare companies, signaling underperformance relative to the benchmark.
+Eli Lilly is the fourth largest healthcare company by market cap but is earning less than the average revenue of the top 20 healthcare companies, signaling underperformance relative to the benchmark.
 
 ---
 
@@ -70,7 +70,19 @@ Eli Lilly is the fourth highest healthcare company by market but is earning less
 
 ---
 
-This breakdown of where the revenue is coming fromr
+Revenue Categories:
+
+This chart from the dashboard breaks down where the revenue is mostly come from. It is important to note that not all transactions are properly labeled so the biggest takaway is where most of the revenue is coming from. 
+
+Insight:
+
+The largest portion of revenue the healthcare companies in 2020 is earning is categorized as oncology.
+
+The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B. The second largest category of revenue were vaccines at 43.77B. 
+
+---
+
+
 
 ---
 
@@ -86,10 +98,6 @@ The dashboard directly ties denial analytics to cash flow recovery prioritizatio
 
 ---
 
-
-![2020 market cap cats & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20Cats.png)
-
----
 
 ### Methodology
 1. Data Extraction & Cleansing (SQL)
