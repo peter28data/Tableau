@@ -82,7 +82,23 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 
 ---
 
+![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
+---
+
+Returning to our original dashboard, we can use the embedded filters by clicking on the upper right Category chart to see where the data is coming from. 
+
+---
+
+![2020 immunology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/immunology.png)
+
+---
+
+We can see that the immunology market cap is coming from two French healthcare companies
+
+---
+
+![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
 
 ---
 
@@ -164,14 +180,6 @@ What Makes This Senior Analysis:
 
 - Specific Actions
 - Quantified Trade-Offs
-
----
-
-![2020 immunology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/immunology.png)
-
----
-
-![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
 
 ---
 
