@@ -114,7 +114,7 @@ By removing the category chart we can have a more focused dashboard on the geogr
 
 ---
 
-Starting off with the biggest contributer the U.S. had 9 of the top healthcare companies by market cap combine for a total of 348.9B during the aftermath of COVID-19.
+Starting off with the biggest contributer the U.S. had 9 of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
 
 ---
 
@@ -122,12 +122,23 @@ Starting off with the biggest contributer the U.S. had 9 of the top healthcare c
 
 ---
 
-The second largest contributor, Switzerland, at 110.7B in market cap from two companies.
+The second largest contributor, Switzerland, at 110.7B in revenue from two companies.
 
 ---
 
+![2020 UK healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20UK%20healthcare.png)
 
+---
 
+The third largest contributor, United Kingdom, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
+
+---
+
+![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
+
+---
+
+The fourth largest contributor, France, at 41.1B in revenue from one company, Sanofi.
 
 ---
 
