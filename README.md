@@ -102,6 +102,22 @@ We can see that the immunology market cap is coming from two French healthcare c
 
 ---
 
+![2020 geographic healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20Geographic%20Healthcare.png)
+
+---
+
+By removing the category chart we can have a more focused dashboard on the geography of where the market cap is coming from. 
+
+---
+
+![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
+
+---
+
+Starting off with the biggest contributer the U.S. had 9 of the top healthcare companies by market cap combine for a total of 348.9B during the aftermath of COVID-19.
+
+---
+
 ### Estimated Financial Impact
 For a healthcare organization with $10M annual revenue:
 
