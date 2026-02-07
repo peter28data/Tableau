@@ -118,6 +118,19 @@ Starting off with the biggest contributer the U.S. had 9 of the top healthcare c
 
 ---
 
+![2020 switzerland healthcare](https://github.com/peter28data/Tableau/blob/e5591a02b76511300729de9a9294e24b213c8176/images/healthcare/2020%20switzerland%20healthcare.png)
+
+---
+
+The second largest contributor, Switzerland, at 110.7B in market cap from two companies.
+
+---
+
+
+
+
+---
+
 ### Estimated Financial Impact
 For a healthcare organization with $10M annual revenue:
 
