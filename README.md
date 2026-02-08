@@ -94,11 +94,21 @@ Returning to our original dashboard, we can use the embedded filters by clicking
 
 ---
 
-We can see that the immunology market cap is coming from two French healthcare companies
+Immunology is comprised of two parts, biosimilars and oncology. The market cap total from Immunology is 266.87B. 
+
+This tells us that only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be some revenue/market cap of immunology from more than 2 companies. 
+
+Due to the Category chart not having all data points labeled correctly we can remove this chart from the dashboard to focus on other insights provided.
 
 ---
 
 ![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
+
+---
+
+To confirm our data validation of the Category chart, we can check the largest portion of revenue/market cap, oncology: neurology.
+
+We can see above that
 
 ---
 
