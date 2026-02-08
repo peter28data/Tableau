@@ -86,7 +86,7 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 
 ---
 
-Returning to our original dashboard, we can use the embedded filters by clicking on the upper right Category chart to see where the data is coming from. 
+Returning to our original dashboard, we can use the embedded filters on the upper right Category chart to identify the data source.
 
 ---
 
@@ -96,7 +96,7 @@ Returning to our original dashboard, we can use the embedded filters by clicking
 
 Immunology is comprised of two parts, biosimilars and oncology. The market cap total from Immunology is 266.87B. 
 
-This tells us that only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be some revenue/market cap of immunology from more than 2 companies. 
+This tells us that only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
 
 Due to the Category chart not having all data points labeled correctly we can remove this chart from the dashboard to focus on other insights provided.
 
@@ -106,9 +106,9 @@ Due to the Category chart not having all data points labeled correctly we can re
 
 ---
 
-To confirm our data validation of the Category chart, we can check the largest portion of revenue/market cap, oncology: neurology.
+To confirm our data validation theory of the Category chart, we can check the largest portion of revenue/market cap, oncology: neurology.
 
-We can see above that
+We can see above that only one company from Switzerland
 
 ---
 
