@@ -108,7 +108,7 @@ Due to the Category chart not having all data points labeled correctly we can re
 
 To confirm our data validation theory of the Category chart, we can check the largest portion of revenue/market cap, oncology: neurology.
 
-We can see above that only one company from Switzerland
+We can see above that only one company from Switzerland is shown. More than one company should have labeled data from neurology, therefore, we can confirm our data validation of the Category chart.
 
 ---
 
@@ -116,7 +116,7 @@ We can see above that only one company from Switzerland
 
 ---
 
-By removing the category chart we can have a more focused dashboard on the geography of where the market cap is coming from. 
+Modifications to the original dashboard by removing the category chart to have more focus on the geography.
 
 ---
 
