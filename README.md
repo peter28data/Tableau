@@ -283,7 +283,7 @@ Recommendations:
 
 1. Target the top 3 denial categories with the highest recovery ROI rather than addressing all denials equally.
 2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
-3. Align staffing models to pri
+3. Align staffing models to priorities
 
 Financial Impact (Estimated):
 
