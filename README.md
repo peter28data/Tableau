@@ -297,6 +297,7 @@ What Makes This a Senior Analysis:
 
 As a senior analyst, framing analysis around decisions, trade-offs, and financial impact offer a more well rounded report on curret trends.
 
+
 ---
 
 ## Done! Thank you for Reading
