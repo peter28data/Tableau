@@ -70,7 +70,9 @@ Eli Lilly is the fourth largest healthcare company by market cap but is earning 
 
 ---
 
-Revenue Categories:
+Next, we analyze:
+
+Revenue Categories
 
 This chart from the dashboard breaks down where the revenue is mostly come from. It is important to note that not all transactions are properly labeled so the biggest takaway is where most of the revenue is coming from. 
 
@@ -94,9 +96,9 @@ Returning to our original dashboard, we can use the embedded filters on the uppe
 
 ---
 
-Immunology is comprised of two parts, biosimilars and oncology. The market cap total from Immunology is 266.87B. 
+Immunology, in the upper right chart, is comprised of two parts; biosimilars and oncology. The market cap total from Immunology is 266.87B. 
 
-This tells us that only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
+The Market Cap chart in the upper left of the dashboard shows only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
 
 Due to the Category chart not having all data points labeled correctly we can remove this chart from the dashboard to focus on other insights provided.
 
