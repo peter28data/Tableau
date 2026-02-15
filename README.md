@@ -1,6 +1,6 @@
 <h1 align="center">Peter Garay-Robles </h1>
 
-<h3 align="center">A Senior Analyst in SQL and Python.</h3>
+<h3 align="center">A Senior Analyst in SQL and Tableau.</h3>
 
 ---
 
@@ -118,7 +118,7 @@ We can see above that only one company from Switzerland is shown. More than one 
 
 ---
 
-Modifications to the original dashboard by removing the category chart to have more focus on the geography.
+Modifications to the original dashboard were made above by removing the category chart to focus on the geography.
 
 ---
 
@@ -126,7 +126,7 @@ Modifications to the original dashboard by removing the category chart to have m
 
 ---
 
-Starting off with the biggest contributer the U.S. had 9 of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
+The U.S. was the biggest contributor in revenue for the year of 2020. Nine of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
 
 ---
 
@@ -134,7 +134,7 @@ Starting off with the biggest contributer the U.S. had 9 of the top healthcare c
 
 ---
 
-The second largest contributor, Switzerland, at 110.7B in revenue from two companies.
+Switzerland, the second largest contributor, at 110.7B in revenue from two companies.
 
 ---
 
@@ -142,7 +142,7 @@ The second largest contributor, Switzerland, at 110.7B in revenue from two compa
 
 ---
 
-The third largest contributor, United Kingdom, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
+United Kingdom, the third largest contributor, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
 
 ---
 
@@ -150,7 +150,7 @@ The third largest contributor, United Kingdom, at 70.4B in revenue from two comp
 
 ---
 
-The fourth largest contributor, France, at 41.1B in revenue from one company, Sanofi.
+France, the fourth largest contributor, at 41.1B in revenue from one company, Sanofi.
 
 ---
 
