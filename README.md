@@ -154,55 +154,6 @@ France, the fourth largest contributor, at 41.1B in revenue from one company, Sa
 
 ---
 
-### Estimated Financial Impact
-For a healthcare organization with $10M annual revenue:
-
-- Reducing denials by just 1.5% of revenue -> $150k recovered
-- Improving denial resolution speed by 10-15 days can increase cash flow by $250k-$400k annually
-
-Impact Connection:
-
-The dashboard directly ties denial analytics to cash flow recovery prioritization, and operational efficiency, making it a powerful tool for revenue cycle leadership. 
-
----
-
-
-### Methodology
-1. Data Extraction & Cleansing (SQL)
-
-- Pulled claims, denial reasons, financial class, aging, and payment data from transactional databases
-- Standardized denial codes and rollups
-
-2. Dashboard Development (Tableau)
-
-- Built KPI tiles for: Total denied amount, Distinct Claims, Average Denial Age
-- Designed interactive visuals: Treemap of denial reasons by financial impact, Scatterplot by denial age, Trend analysis of denied amounts over time with drop-downs to filter claim-level detail
-
----
-
-
-### Results & Business Recommendations - Junior Analyst Perspective
-
-Results:
-
-Oncology and immunology segments contribute significantly to total market cap. Certain financial classes exhibit systematic denial patterns, indicating process or documentation gaps. A small number of denial categories (e.g., duplicate claims, eligibility, billing errors)
-
-Business Recommendations:
-
-Prioritze resolution of top 3 denial categories, which drive the majority of revenue leakage. Focus staff efforts on high-dollar, high-aging claims for maximum recovery. Implement front-end process controls (eligibility and billing validation) to prevent repeat denials. Monitor underperforming segments for improvement opportunities. 
-
-Financial Impact (Estimated):
-
-Improving performance in underperforming segments could increase revenue by 3%-5% for a company with $10M in revenue
-
----
-
-## 📊 Healthcare Company Revenue & Capital Overview
-
-![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
-
----
-
 ### Executive Summary - Senior Analyst Overview
 
 This dashboard evaluates how effectively healthcare organizations convert capital into revenue across therapeutic areas, business segments, and geographies. The focus is on capital efficiency, concentration risk, and scalable growth opportunities. The insights are designed to inform portfolio strategy, capital allocation, and market expansion decisions, assisting leadership to shift investment toward segments and geographies with the strongest revenue yield. 
