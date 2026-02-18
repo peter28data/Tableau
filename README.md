@@ -2,7 +2,6 @@
 
 <h3 align="center">A Senior Analyst in SQL and Tableau.</h3>
 
----
 
 The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. 
 
