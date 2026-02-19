@@ -264,4 +264,4 @@ For Project in SQL, click below:
 
 ## 📫 How to Connect With Me:
 
-📧 Email: peter.garayrobles@gmail.com 
+🔗 Email: peter.garayrobles@gmail.com 
