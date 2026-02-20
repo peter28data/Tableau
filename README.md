@@ -2,6 +2,7 @@
 
 <h3 align="center">A Senior Analyst in SQL and Tableau.</h3>
 
+---
 
 The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. 
 
@@ -251,7 +252,7 @@ As a senior analyst, framing analysis around decisions, trade-offs, and financia
 
 ---
 
-## Done! Thank you for Reading
+## 🤝 Done! Thank you for Reading
 For Project in SQL, click below:
 
 🔗 SQL Portfolio Link: https://github.com/peter28data/SQL
