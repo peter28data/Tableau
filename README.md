@@ -4,7 +4,73 @@
 
 ---
 
-The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. 
+The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. They demonstrate dashboard development with or without access to the source data. 
+
+---
+
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+---
+
+### Executive Summary - Junior Analyst Perspective
+
+This dashboard tracks denied claims, denial amounts, and average aging of claims to help identify trends and common denial reasons. Users can see which denial categories account for the largest amounts and review claim-level details to support follow-up actions.
+
+The Tableau dashboard helps revenue cycle teams monitor weekly denial performance.
+
+### Results & Business Recommendations
+
+Results:
+
+Duplicate claims and eligibity issues account for the highest denied amounts. Older claims tend to have higher denied values. Some financial classes experience more denials than others.
+
+Recommendations:
+
+Focus on resolving high-dollar denials first. Review processes for common denial reasons. Monitor aging trends to prevent revenue loss.
+
+Financial Impact (Estimated):
+
+Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organization).
+
+---
+
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+---
+
+### Executive Summary - Senior Analyst Perspective
+
+This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
+
+The focus is on cash acceleration and denial prevention. 
+
+### Results & Business Recommendations
+
+Results:
+
+Over 50% of denied dollars orginate from a small subset of preventable denial categories, indicating systemic front-end process gaps. High-dollar denials exceeding critical aging thresholds represent immediate write-off risk, not just delayed cash. Financial class-specific patterns suggest payer-driven documentation and authorization failures.
+
+Recommendations:
+
+1. Target the top 3 denial categories with the highest recovery ROI rather than addressing all denials equally.
+2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
+3. Align staffing models to priorities
+
+Financial Impact (Estimated):
+
+Preventing just 1% of avoidable denials leads to $100k revenue preserved. Improving recovery speedd by 10-15 days improves cash flow by $250k-$400k. This is a combined impact of $400k-$600k annual benefit on a $10M revenue
+
+What Makes This a Senior Analysis:
+
+- Focus on preventable vs non-preventable
+- Labor efficiency and ROI framing
+- Cash flow, not just recovery
+
+As a senior analyst, framing analysis around decisions, trade-offs, and financial impact offer a more well rounded report on current trends.
 
 ---
 
@@ -88,7 +154,7 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 
 ---
 
-Returning to our original dashboard, we can use the embedded filters on the upper right Category chart to identify the data source.
+Above is our original dashboard, using the embedded filters on the upper right Category chart to validate the data source.
 
 ---
 
@@ -97,6 +163,8 @@ Returning to our original dashboard, we can use the embedded filters on the uppe
 ---
 
 Immunology, in the upper right chart, is comprised of two parts; biosimilars and oncology. The market cap total from Immunology is 266.87B. 
+
+Insight:
 
 The Market Cap chart in the upper left of the dashboard shows only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
 
@@ -108,7 +176,9 @@ Due to the Category chart not having all data points labeled correctly we can re
 
 ---
 
-To confirm our data validation theory of the Category chart, we can check the largest portion of revenue/market cap, oncology: neurology.
+Data validation of the Category chart, by investigating the largest portion of revenue/market cap, oncology: neurology.
+
+Conclusion:
 
 We can see above that only one company from Switzerland is shown. More than one company should have labeled data from neurology, therefore, we can confirm our data validation of the Category chart.
 
@@ -118,13 +188,19 @@ We can see above that only one company from Switzerland is shown. More than one 
 
 ---
 
-Modifications to the original dashboard were made above by removing the category chart to focus on the geography.
+Modifications to the original dashboard:
+
+1. Removing the category chart 
+2. Removing business segment
+3. Focusing on Revenue with geography & city chart 
 
 ---
 
 ![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
 
 ---
+
+Filter for United States:
 
 The U.S. was the biggest contributor in revenue for the year of 2020. Nine of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
 
@@ -134,6 +210,8 @@ The U.S. was the biggest contributor in revenue for the year of 2020. Nine of th
 
 ---
 
+Filter for Switerzerland:
+
 Switzerland, the second largest contributor, at 110.7B in revenue from two companies.
 
 ---
@@ -142,6 +220,8 @@ Switzerland, the second largest contributor, at 110.7B in revenue from two compa
 
 ---
 
+Filter for United Kingdom:
+
 United Kingdom, the third largest contributor, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
 
 ---
@@ -149,6 +229,8 @@ United Kingdom, the third largest contributor, at 70.4B in revenue from two comp
 ![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
 
 ---
+
+Filter for France:
 
 France, the fourth largest contributor, at 41.1B in revenue from one company, Sanofi.
 
@@ -183,72 +265,6 @@ What Makes This Senior Analysis:
 
 - Specific Actions
 - Quantified Trade-Offs
-
----
-
-### 📊 Revenue Cycle Analyst Dashboard
-
-![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
-
----
-
-### Executive Summary - Junior Analyst
-
-This dashboard tracks denied claims, denial amounts, and average aging of claims to help identify trends and common denial reasons. Users can see which denial categories account for the largest amounts and review claim-level details to support follow-up actions.
-
-The Tableau dashboard helps revenue cycle teams monitor weekly denial performance.
-
-### Results & Business Recommendations
-
-Results:
-
-Duplicate claims and eligibity issues account for the highest denied amounts. Older claims tend to have higher denied values. Some financial classes experience more denials than others.
-
-Recommendations:
-
-Focus on resolving high-dollar denials first. Review processes for common denial reasons. Monitor aging trends to prevent revenue loss.
-
-Financial Impact (Estimated):
-
-Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organization).
-
----
-
-### 📊 Revenue Cycle Analyst Dashboard
-
-![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
-
----
-
-Executive Summary - Senior Analyst
-
-This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
-
-The focus is on cash acceleration and denial prevention. 
-
-### Results & Business Recommendations
-
-Results:
-
-Over 50% of denied dollars orginate from a small subset of preventable denial categories, indicating systemic front-end process gaps. High-dollar denials exceeding critical aging thresholds represent immediate write-off risk, not just delayed cash. Financial class-specific patterns suggest payer-driven documentation and authorization failures.
-
-Recommendations:
-
-1. Target the top 3 denial categories with the highest recovery ROI rather than addressing all denials equally.
-2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
-3. Align staffing models to priorities
-
-Financial Impact (Estimated):
-
-Preventing just 1% of avoidable denials leads to $100k revenue preserved. Improving recovery speedd by 10-15 days improves cash flow by $250k-$400k. This is a combined impact of $400k-$600k annual benefit on a $10M revenue
-
-What Makes This a Senior Analysis:
-
-- Focus on preventable vs non-preventable
-- Labor efficiency and ROI framing
-- Cash flow, not just recovery
-
-As a senior analyst, framing analysis around decisions, trade-offs, and financial impact offer a more well rounded report on curret trends.
 
 ---
 
