@@ -155,7 +155,7 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 
 ---
 
-Above is our original dashboard, using the embedded filters on the upper right Category chart to validate the data source.
+Above is our original dashboard, a powerful feature in Tableau are the embedded filters on the upper right Category chart.
 
 ---
 
