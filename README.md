@@ -4,7 +4,7 @@
 
 ---
 
-The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. They demonstrate dashboard development with or without access to the source data. 
+The files in this folder contain documentation for Tableau Dashboard Development in the healthcare industry. They demonstrate the ability to be the Subject Matter Expert for Tableau with or without access to the source data. 
 
 ---
 
