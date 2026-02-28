@@ -160,45 +160,20 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 
 Above is our original dashboard, a powerful feature in Tableau are the embedded filters on the upper right Category chart.
 
----
 
-![2020 immunology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/immunology.png)
-
----
-
-Immunology, in the upper right chart, is comprised of two parts; biosimilars and oncology. The market cap total from Immunology is 266.87B. 
-
-Insight:
-
-The Market Cap chart in the upper left of the dashboard shows only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
-
-Due to the Category chart not having all data points labeled correctly we can remove this chart from the dashboard to focus on other insights provided.
-
----
-
-![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
-
----
-
-Data validation of the Category chart, by investigating the largest portion of revenue/market cap, oncology: neurology.
-
-Conclusion:
-
-We can see above that only one company from Switzerland is shown. More than one company should have labeled data from neurology, therefore, we can confirm our data validation of the Category chart.
-
----
-
-![2020 geographic healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20Geographic%20Healthcare.png)
-
----
-
-Modifications to the original dashboard:
+Below, Modifications to the original dashboard:
 
 1. Removing the category chart 
 2. Removing business segment
 3. Focusing on Revenue with geography & city chart 
 
 ---
+
+
+![2020 geographic healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20Geographic%20Healthcare.png)
+
+---
+
 
 ![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
 
