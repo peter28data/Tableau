@@ -1,27 +1,288 @@
----
-The files in this folder contain images for Tableau Dashboard visualization in the healthcare industry. 
+<h1 align="center">Peter Garay-Robles </h1>
+
+<h3 align="center">A Senior Analyst in SQL and Tableau.</h3>
 
 ---
 
-### 📊 Healthcare Company Revenue and Capital Overview
 
-This dashboard includes 5 visualizations with filters for the top healthcare companies in revenue and market cap for the year 2020. 
+The files in this folder contain documentation for Tableau Dashboard Development in the healthcare industry. They demonstrate the ability to be the Subject Matter Expert for Tableau with or without access to the source data. 
 
-- The geography map on the lower left side shows the total sum of market cap value based on country.
-- On the upper right, a horizontal bar graph groups the sum of total market cap by Category and Subcategory such as immunology, oncology, and vaccines.
-- Below is a bubble graph to group the total market capitalization by the most profitable cities the healthcare company is based in such as New York, New Brunswick, and Basel.
-- On the lower right, a vertical bar chart displays 3 business segments:
-1. Pharmaceuticals
-2. Medical Devices, Diagnostics, Vaccines
-3. Consumer Health, Unlabeled Data
+
 
 ---
 
-## Done! Thank you for Reading
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+
+---
+
+### Executive Summary - Junior Analyst Perspective
+
+This dashboard tracks denied claims, denial amounts, and average aging of claims to help identify trends and common denial reasons. Users can see which denial categories account for the largest amounts and review claim-level details to support follow-up actions.
+
+The Tableau dashboard helps revenue cycle teams monitor weekly denial performance.
+
+### Results & Business Recommendations
+
+Results:
+
+Duplicate claims and eligibity issues account for the highest denied amounts. Older claims tend to have higher denied values. Some financial classes experience more denials than others.
+
+Recommendations:
+
+Focus on resolving high-dollar denials first. Review processes for common denial reasons. Monitor aging trends to prevent revenue loss.
+
+Financial Impact (Estimated):
+
+Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organization).
+
+---
+
+### 📊 Revenue Cycle Analyst Dashboard
+
+![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
+
+---
+
+### Executive Summary - Senior Analyst Perspective
+
+This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
+
+The focus is on cash acceleration and denial prevention. 
+
+### Results & Business Recommendations
+
+Results:
+
+Over 50% of denied dollars orginate from a small subset of preventable denial categories, indicating systemic front-end process gaps. High-dollar denials exceeding critical aging thresholds represent immediate write-off risk, not just delayed cash. Financial class-specific patterns suggest payer-driven documentation and authorization failures.
+
+Recommendations:
+
+1. Target the top 3 denial categories with the highest recovery ROI rather than addressing all denials equally.
+2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
+3. Align staffing models to priorities
+
+Financial Impact (Estimated):
+
+Preventing just 1% of avoidable denials leads to $100k revenue preserved. Improving recovery speedd by 10-15 days improves cash flow by $250k-$400k. This is a combined impact of $400k-$600k annual benefit on a $10M revenue
+
+What Makes This a Senior Analysis:
+
+- Focus on preventable vs non-preventable
+- Labor efficiency and ROI framing
+- Cash flow, not just recovery
+
+As a senior analyst, framing analysis around decisions, trade-offs, and financial impact offer a more well rounded report on current trends.
+
+---
+
+## 📊 Healthcare Company Revenue & Capital Overview
+
+![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
+
+---
+
+
+### Executive Summary - Junior Analyst Overview
+
+This dashboard compares revenue and market capitalization across major healthcare companies to understand how different business segments and geographies contribute to overall value. It allows leadership to identify which companies and segments generate the highest reveneue and market cap. This dashboard provides insights for our stakeholders on the differences in performance across the industry in 2020. 
+
+What Makes This Junior Analysis:
+
+- Focused on what is shown
+- Limited business implication
+- Descriptive
+
+### Business Problem
+
+Healthcare organizations routinely lose revenue due to:
+1. Slow denial resolution
+2. Preventable claim denials
+3. Poor visibility into denial drivers by payer, category, and age
+
+Without a structured denial analytics framework:
+
+- Aging claims become unrecoverable
+- High-doller denials remain unresolved
+- Staff efforts are misallocated
+
+---
+
+![2020 market cap & revenue](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Market%20Cap%20%26%20Revenue.png)
+
+---
+
+First, we identify:
+
+The Top 20 Healthcare companies by market capitlization in 2020 reflect how the public market values its future potential at share price by distributed shares. The revenue shows how the healthcare company performed for the year 2020. 
+
+This lets decision-makers switch between those perspectives and identify gaps between current performance and expected growth to identify companies that are undervalued and overvalued.
+
+Eli Lilly:
+
+In 2020, the top 3 healthcare companies by market cap align with the top 3 companies by revenue. 
+
+However, Eli Lilly, the fourth largest market cap, had less than a 5% difference in market cap but its earnings of 24.5B are 42% lower than the third leading competitor at 41.9B.
+
+To compare, the industry average for the top 20 companies by revenue is 35.5B. 
+
+---
+
+Insight:
+
+Eli Lilly is the fourth largest healthcare company by market cap but is earning less than the average revenue of the top 20 healthcare companies, signaling underperformance relative to the benchmark.
+
+---
+
+![2020 revenue cat & sub-cats](https://github.com/peter28data/Tableau/blob/304786eb388a06fbb5d172a8d20eea930160dbc9/images/healthcare/2020%20Revenue%20Category%20%26%20Sub-Cats.png)
+
+---
+
+Next, we analyze:
+
+Revenue Categories
+
+This chart from the dashboard breaks down where the revenue is mostly come from. It is important to note that not all transactions are properly labeled so the biggest takaway is where most of the revenue is coming from. 
+
+Insight:
+
+The largest portion of revenue the healthcare companies in 2020 is earning is categorized as oncology.
+
+The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B. The second largest category of revenue were vaccines at 43.77B. 
+
+---
+
+![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
+
+---
+
+Above is our original dashboard, a powerful feature in Tableau are the embedded filters on the upper right Category chart.
+
+---
+
+![2020 immunology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/immunology.png)
+
+---
+
+Immunology, in the upper right chart, is comprised of two parts; biosimilars and oncology. The market cap total from Immunology is 266.87B. 
+
+Insight:
+
+The Market Cap chart in the upper left of the dashboard shows only 2 of the 20 companies have revenue/market cap data points labeled as immunology. This makes the analysis of healthcare companies unclear. There should be data points from more than 2 companies. 
+
+Due to the Category chart not having all data points labeled correctly we can remove this chart from the dashboard to focus on other insights provided.
+
+---
+
+![2020 oncology market cap](https://github.com/peter28data/Tableau/blob/44609f7b4614ebc3e0b65b23cfa557ced6c75712/images/healthcare/oncology.png)
+
+---
+
+Data validation of the Category chart, by investigating the largest portion of revenue/market cap, oncology: neurology.
+
+Conclusion:
+
+We can see above that only one company from Switzerland is shown. More than one company should have labeled data from neurology, therefore, we can confirm our data validation of the Category chart.
+
+---
+
+![2020 geographic healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20Geographic%20Healthcare.png)
+
+---
+
+Modifications to the original dashboard:
+
+1. Removing the category chart 
+2. Removing business segment
+3. Focusing on Revenue with geography & city chart 
+
+---
+
+![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
+
+---
+
+Filter for United States:
+
+The U.S. was the biggest contributor in revenue for the year of 2020. Nine of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
+
+---
+
+![2020 switzerland healthcare](https://github.com/peter28data/Tableau/blob/e5591a02b76511300729de9a9294e24b213c8176/images/healthcare/2020%20switzerland%20healthcare.png)
+
+---
+
+Filter for Switerzerland:
+
+Switzerland, the second largest contributor, at 110.7B in revenue from two companies.
+
+---
+
+![2020 UK healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20UK%20healthcare.png)
+
+---
+
+Filter for United Kingdom:
+
+United Kingdom, the third largest contributor, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
+
+---
+
+![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
+
+---
+
+Filter for France:
+
+France, the fourth largest contributor, at 41.1B in revenue from one company, Sanofi.
+
+---
+
+### Executive Summary - Senior Analyst Overview
+
+This dashboard evaluates how effectively healthcare organizations convert capital into revenue across therapeutic areas, business segments, and geographies. The focus is on capital efficiency, concentration risk, and scalable growth opportunities. The insights are designed to inform portfolio strategy, capital allocation, and market expansion decisions, assisting leadership to shift investment toward segments and geographies with the strongest revenue yield. 
+
+What Makes This Senior Analysis:
+
+- Focused on decision-making
+- Connects analytics to strategy
+- Outcome-driven
+
+### Senior Analyst Perspective
+
+Capital concentration is not evenly distributed. Specific therapeutic areas generate disporportionate market value relative to revenue, signaling higher growth expectations and pricing power. Geographic clustering suggests operational and R&D efficiences that can be replicated in adjacent markets. Underperforming segments represent opportunities for capital rebalancing rather than cost reduction alone.
+
+Recommendations:
+
+1. Reallocate 2%-3% of annual investment from low-yield segments into high-efficiency therapeutic areas.
+2. Expand presence in cities demonstrating both capital density and revenue scalalbility.
+3. Establish ongoing capital-efficiency KPIs to guide quarterly investment decisions.
+
+Financial Impact (Estimated)
+
+- A 3% improvement in capital efficiency -> $300k incremental revenue on $10M
+- Replicating top-performing segment economics across regions -> $500k-$700k annual uplift
+
+What Makes This Senior Analysis:
+
+- Specific Actions
+- Quantified Trade-Offs
+
+---
+
+## 🤝 Done! Thank you for Reading
 For Project in SQL, click below:
 
 🔗 SQL Portfolio Link: https://github.com/peter28data/SQL
 
 🔗 Python Portfolio Link: https://github.com/peter28data/Python
 
+🔗 Current Portfolio Link: https://github.com/peter28data/github
+
 ---
+
+## 📫 How to Connect With Me:
+
+🔗 Email: peter.garayrobles@gmail.com 
