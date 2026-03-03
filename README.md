@@ -255,7 +255,7 @@ For Project in SQL, click below:
 
 🔗 Python Portfolio Link: https://github.com/peter28data/Python
 
-🔗 Current Portfolio Link: https://github.com/peter28data/github
+🔗 Current Portfolio Link: https://github.com/peter28data/Tableau
 
 ---
 
