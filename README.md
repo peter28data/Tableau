@@ -12,7 +12,7 @@ The files in this folder contain documentation for Tableau Dashboard Development
 
 ---
 
-### 📊 Revenue Cycle Analyst Dashboard 1 of 3
+### 📊 Revenue Cycle Dashboard 1 of 3
 
 ![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
 
@@ -79,7 +79,7 @@ As a senior analyst, framing analysis around decisions, trade-offs, and financia
 
 ---
 
-## 📊 Healthcare Company Revenue & Capital Overview 2 of 3
+### 📊 Healthcare Market Cap & Revenue 2 of 3
 
 ![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
@@ -162,13 +162,15 @@ The subcategories of oncology are neurology at 62.05B and respiratory at 26.62B.
 Above is our original dashboard, a powerful feature in Tableau are the embedded filters on the upper right Category chart.
 
 
-Below, Modifications to the original dashboard 3 of 3:
+Below, Modifications to the original dashboard:
 
 1. Removing the category chart 
 2. Removing business segment
 3. Focusing on Revenue with geography & city chart 
 
 ---
+
+### 📊 Healthcare Revenue Overview 3 of 3
 
 
 ![2020 geographic healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20Geographic%20Healthcare.png)
