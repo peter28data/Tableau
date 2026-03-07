@@ -4,8 +4,6 @@
 
 ---
 
-
-
 The files in this folder contain documentation for Tableau Dashboard Development in the healthcare industry. They demonstrate the ability to be the Subject Matter Expert for Tableau.
 
 ---
