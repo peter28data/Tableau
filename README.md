@@ -204,16 +204,16 @@ United Kingdom, the third largest contributor, at 70.4B in revenue from two comp
 
 ---
 
-
-![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
-
----
-
 Filter for France:
 
 France, the fourth largest contributor, at 41.1B in revenue from one company, Sanofi.
 
 ---
+
+![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
+
+---
+
 
 ### Executive Summary - Senior Analyst Overview
 
