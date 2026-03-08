@@ -173,18 +173,14 @@ Below, Modifications to the original dashboard:
 
 ---
 
-
-![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
-
----
-
 Filter for United States:
 
 The U.S. was the biggest contributor in revenue for the year of 2020. Nine of the top healthcare companies by revenue combine for a total of 348.9B during the aftermath of COVID-19.
 
 ---
 
-![2020 switzerland healthcare](https://github.com/peter28data/Tableau/blob/e5591a02b76511300729de9a9294e24b213c8176/images/healthcare/2020%20switzerland%20healthcare.png)
+
+![2020 america healthcare](https://github.com/peter28data/Tableau/blob/d2373996e5f656f3f167fa8e67c97ad015ea70b6/images/healthcare/2020%20america%20healthcare.png)
 
 ---
 
@@ -194,7 +190,7 @@ Switzerland, the second largest contributor, at 110.7B in revenue from two compa
 
 ---
 
-![2020 UK healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20UK%20healthcare.png)
+![2020 switzerland healthcare](https://github.com/peter28data/Tableau/blob/e5591a02b76511300729de9a9294e24b213c8176/images/healthcare/2020%20switzerland%20healthcare.png)
 
 ---
 
@@ -203,6 +199,11 @@ Filter for United Kingdom:
 United Kingdom, the third largest contributor, at 70.4B in revenue from two companies, AstraZeneca and GlaxoSmiteKline.
 
 ---
+
+![2020 UK healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20UK%20healthcare.png)
+
+---
+
 
 ![2020 france healthcare](https://github.com/peter28data/Tableau/blob/65589caf44860b86f19275704dda62fab35928d6/images/healthcare/2020%20france%20healthcare%2041.1B.png)
 
