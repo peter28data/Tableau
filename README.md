@@ -31,7 +31,7 @@ Recommendations:
 
 Focus on resolving high-dollar denials first. Review processes for common denial reasons. Monitor aging trends to prevent revenue loss.
 
-Financial Impact (Estimated):
+### Financial Impact (Estimated):
 
 Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organization).
 
@@ -61,7 +61,7 @@ Recommendations:
 2. Implement pre-billl edits and eligibility automation to eliminate repeat denials upstream.
 3. Align staffing models to priorities
 
-Financial Impact (Estimated):
+### Financial Impact (Estimated):
 
 Preventing just 1% of avoidable denials leads to $100k revenue preserved. Improving recovery speedd by 10-15 days improves cash flow by $250k-$400k. This is a combined impact of $400k-$600k annual benefit on a $10M revenue
 
@@ -235,7 +235,7 @@ Recommendations:
 2. Expand presence in cities demonstrating both capital density and revenue scalalbility.
 3. Establish ongoing capital-efficiency KPIs to guide quarterly investment decisions.
 
-Financial Impact (Estimated)
+### Financial Impact (Estimated)
 
 - A 3% improvement in capital efficiency -> $300k incremental revenue on $10M
 - Replicating top-performing segment economics across regions -> $500k-$700k annual uplift
