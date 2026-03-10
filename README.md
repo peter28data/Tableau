@@ -12,7 +12,6 @@ The files in this folder contain documentation for Tableau Dashboard Development
 
 ![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
 
-
 ---
 
 ### Executive Summary - Junior Analyst Perspective
