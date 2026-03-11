@@ -20,7 +20,7 @@ This dashboard tracks denied claims, denial amounts, and average aging of claims
 
 The Tableau dashboard helps revenue cycle teams monitor weekly denial performance.
 
-### Results & Business Recommendations
+## Results & Recommendations
 
 Results:
 
@@ -48,7 +48,7 @@ This dashboard functions as a revenue leakage control system, quantifying where,
 
 The focus is on cash acceleration and denial prevention. 
 
-### Results & Business Recommendations
+## Results & Business Recommendations
 
 Results:
 
