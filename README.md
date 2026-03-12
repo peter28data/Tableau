@@ -36,13 +36,13 @@ Reducing denials could recover 1%-2% of revenue ($100k-$200k for a $10M organiza
 
 ---
 
-### 📊 Revenue Cycle Analyst Dashboard
+### 📊 Revenue Cycle Dashboard - Senior Analyst Perspective
 
 ![weekly claims](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Denials%20Management.png)
 
 ---
 
-### Executive Summary - Senior Analyst Perspective
+### Executive Summary - Senior Analyst 
 
 This dashboard functions as a revenue leakage control system, quantifying where, why, and how quickly revenue is lost through denials. It prioritizes denial categories and claims based on recoverability, financial impact, and aging risk, enabling stakeholders to target changes to the operational process.
 
