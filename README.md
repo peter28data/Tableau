@@ -11,7 +11,7 @@ The files in this folder contain documentation for Tableau Dashboard Development
 
 ---
 
-### 📊 Healthcare Market Cap & Revenue 2 of 3
+### 📊 Healthcare Market Cap & Revenue 1 of 3
 
 ![Global Healthcare Market Cap](https://github.com/peter28data/github/blob/d3a36805bdf274c662389e3d96e1e25c06388bbc/images/healthcare/Healthcare%20Market%20Cap.png)
 
