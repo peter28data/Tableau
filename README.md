@@ -1,12 +1,13 @@
 
 <h1 align="center">Peter Garay-Robles </h1>
 
-<h3 align="center">A Senior Analyst in Tableau and SQL.</h3>
+<h3 align="center"> Tableau and SQL</h3>
 
 
 ---
 
 The files in this folder contain documentation for Tableau Dashboard Development in the healthcare industry. These files demonstrate the ability to be the Subject Matter Expert in Tableau.
+
 
 
 
