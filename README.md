@@ -27,13 +27,11 @@ The files in this folder contain documentation for Tableau Dashboard Development
 
 ### Executive Summary - Junior Analyst Overview
 
-This dashboard compares revenue and market capitalization across major healthcare companies to understand how different business segments and geographies contribute to overall value. It allows leadership to identify which companies and segments generate the highest reveneue and market cap. This dashboard provides insights for our stakeholders on the differences in performance across the industry in 2020. 
+This dashboard compares **revenue** and **market capitalization** across major healthcare companies to understand how different geographies segment overall value. 
 
-What Makes This Junior Analysis:
+Leadership can identify which companies generate the highest reveneue and market cap across the industry in 2020. 
 
-- Focused on what is shown
-- Limited business implication
-- Descriptive
+
 
 ### Business Problem
 
@@ -42,11 +40,11 @@ Healthcare organizations routinely lose revenue due to:
 2. Preventable claim denials
 3. Poor visibility into denial drivers by payer, category, and age
 
-Without a structured denial analytics framework:
+### Limitations Without Denial Analytics Framework:
 
-- Aging claims become unrecoverable
-- High-doller denials remain unresolved
-- Staff efforts are misallocated
+- **Aging** claims become unrecoverable
+- High-doller denials **remain unresolved**
+
 
 ---
 
